@@ -1,9 +1,9 @@
-#Learning GitHub
+# Learning GitHub
 
 Study properly through these files
 
-'''javascript
+```javascript
 
 console.log("Hello World");
 
-'''
+```
